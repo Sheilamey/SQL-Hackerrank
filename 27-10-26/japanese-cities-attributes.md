@@ -11,7 +11,7 @@ DB Engine : MySQL
 
 ## Intuition
 
-sosoosososososososososososos
+Description
 
 
 
