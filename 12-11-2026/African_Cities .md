@@ -16,7 +16,7 @@ Join Tables: Connect the CITY table and COUNTRY table together using their match
 
 Filter: Apply a condition where the continent is explicitly 'Africa' (COUNTRY.Continent = 'Africa').
 
-Select: Retrieve the city names (CITY.NAME
+Select: Retrieve the city names (CITY.NAME)
 
 ## Solution
 
